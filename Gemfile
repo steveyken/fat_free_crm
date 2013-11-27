@@ -91,3 +91,5 @@ group :assets do
 end
 
 gem 'turbo-sprockets-rails3'
+
+ruby '1.9.3'

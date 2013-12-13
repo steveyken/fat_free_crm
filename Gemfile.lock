@@ -161,8 +161,6 @@ GEM
     premailer (1.7.3)
       css_parser (>= 1.1.9)
       htmlentities (>= 4.0.0)
-    prototype-rails (3.2.1)
-      rails (~> 3.2)
     pry (0.9.9.4)
       coderay (~> 1.0.5)
       method_source (~> 0.7.1)
@@ -333,7 +331,6 @@ DEPENDENCIES
   paperclip
   pg
   premailer
-  prototype-rails
   pry-rails
   quiet_assets
   rails (~> 3.2.12)
